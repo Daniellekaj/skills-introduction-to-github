@@ -1,4 +1,4 @@
-<header>
+        uses: skills/action-update-step@v2<header>
 
 <!--
   <<< Author notes: Course header >>>
